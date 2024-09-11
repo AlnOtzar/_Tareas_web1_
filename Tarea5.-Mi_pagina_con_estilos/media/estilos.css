@@ -1,0 +1,79 @@
+/* Como ya existe la etiqueta de body, no es necesario poner el punto */
+body{
+    background-color: #f2b183;
+    font-family: 'Lucida Sans';
+    /* 1em es igual a 16 pixeles */
+    padding: 5em;
+
+}
+p{
+    color: #534255;
+    font-size: 25px;
+}
+
+.fondoClaro{
+    background-color:#f5ebe0;
+    box-shadow: 0 0px 50px rgb(255, 246, 230);
+
+}
+.fondoClaro2{
+    background-color:#f9eee2;
+    box-shadow: 0 0px 50px rgb(255, 255, 255);
+
+}
+
+.fondoOscuro{
+    background-color: #534255;
+}
+
+.imagen{
+    width: 270px;
+    margin: 0px;
+    padding: 0px;
+}
+.texto1{
+    text-align: center;
+    font-size: 4em;
+    color: #534255;
+    font-style: inherit;
+}
+
+.texto2{
+    font-size: 1em;
+    color: #a15e61;
+    text-align: justify;
+}
+
+.separacion{
+    padding: 1em;
+    background-color: #f7e2cc;
+}
+
+.texto3{
+    text-align: center;
+    font-family: 'Lucida Sans Regular';
+}
+
+.borde{
+    border: 10px solid #ffffff;
+    border-radius: 10px;
+}
+
+.borde2{
+    border: 10px solid #ffe3d1;
+    border-radius: 5px;
+}
+
+.borde3{
+    border: 10px solid #bd987d;
+    border-radius: 5px;
+}
+
+.abajo{
+    text-align: center;
+    background-color: #a15e61;
+    color: #f5ebe0;
+    font-size: 2em;
+    border-radius: 10px;
+    box-shadow: 0 0px 50px rgb(209, 173, 173);
+}
